@@ -22,7 +22,7 @@ Step-by-step Process Overview:
 
 6) Now for the modelling. 
 
-   I imported the LogisticRegression function from Scikit-Learn to now deploy the training data (both the predictors and the label) using logistic regression. 
+   I imported the LogisticRegression function from Scikit-Learn to now deploy logistic regression on the training data (both the predictors and the label).
    
 7) Now it came time to assess the model performance. To do this, I used the accuracy and precision metrics as well as the confusion matrix (using scikit-learn) and discovered the model was 96% accurate and precise. 
 
