@@ -27,3 +27,8 @@ Step-by-step Process Overview:
 7) Now it came time to assess the model performance. To do this, I used the accuracy and precision metrics as well as the confusion matrix (using scikit-learn) and discovered the model was 96% accurate and precise. 
 
    Moreover, I printed to the terminal the coefficients of the deployed model to discover which features had the most impact of a given patient having breast cancer      given a one-unit increase in their value. The features with the heaviest weighting included area_se, radius_worst, perimeter_worst, area_worst, concavity_worst and    concave points_worst.
+
+
+Improvements:
+
+In order to improve the accuracy, I am going to deploy other classification algortithms such as Binary Decision Trees and plot a ROC curve to determine the optimal algorithm and classification threshold to maximise model performance.
