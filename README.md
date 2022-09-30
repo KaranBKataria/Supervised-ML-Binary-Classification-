@@ -32,3 +32,5 @@ Step-by-step Process Overview:
 Improvements:
 
 In order to improve the accuracy, I am going to deploy other classification algortithms such as Binary Decision Trees and plot a ROC curve to determine the optimal algorithm and classification threshold to maximise model performance.
+
+I will also perform k-fold cross validation to determine which algorithm is optimal in classifying whether cancer is present or not for a given patient. 
